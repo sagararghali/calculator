@@ -15,3 +15,7 @@ function calculate(){
         display.value="Error"; 
     }
 }
+function backspace(){
+    let currentvaue=display.value;
+    display.value=currentvaue.slice(0,-1);
+}
