@@ -33,7 +33,7 @@ button{
     width:100px;
     height: 100px;
     border-radius: 50px;
-    boarder:none;
+    border:none;
     background-color: rgb(53, 47, 47);
     color:white;
     font-size: 2rem;
